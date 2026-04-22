@@ -4,7 +4,7 @@ compatibility_date = "2024-12-01"
 compatibility_flags = ["nodejs_compat"]
 
 # Set these via `wrangler secret put`:
-# SERP_API_KEY  — your SerpAPI key from https://serpapi.com/manage-api-key
+# SERP_API_KEY  (your SerpAPI key from https://serpapi.com/manage-api-key)
 
 [vars]
 # Non-secret defaults
